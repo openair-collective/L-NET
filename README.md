@@ -1,5 +1,4 @@
 # L-NET
-I. Explanatory memorandum
 
 By 2022, a broad scientific consensus has emerged that eliminating all future greenhouse gas emissions, even on an accelerated timeline, is no longer sufficient to prevent the planet's average temperature from rising above 1, 5 C during this century. Along with rapidly decarbonizing the global economy and adapting to inevitable climate change, the global community must also remove excess CO2 and other GHGs from the atmosphere through a range of carbon dioxide removal (CDR) pathways, or negative emissions technologies (NETs). According to the 2018 UN Intergovernmental Panel on Climate Change (IPCC) report on global warming:
 
