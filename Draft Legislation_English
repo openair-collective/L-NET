@@ -44,9 +44,9 @@ For the purposes of this law, the following terms mean:
 
 “Carbon utilization”: the use of carbon dioxide as an input or component in the production of products or completion of services. 
 
-“Durable CO2 storage”: the secure and verifiable storage of carbon dioxide in materials and geological formations for periods no shorter in length than 100 years;
+“Durable CO2 storage”: the secure and verifiable storage of carbon dioxide in materials and geological formations for periods no shorter in length than 1000 years;
 
-“Durable materials”: any naturally occurring or manufactured material in which carbon dioxide can be reliably and durably stored for at least 100 years;
+“Durable materials”: any naturally occurring or manufactured material in which carbon dioxide can be reliably and durably stored for at least 1000 years;
  
 “Foreign NET project”: any project aimed at eliminating atmospheric carbon dioxide outside the territory of the Grand Duchy of Luxembourg;
 
@@ -80,9 +80,7 @@ ART. 3. – Modality of project eligibility.
 
 Domestic NET Projects that are located within the territory of the Grand Duchy of Luxembourg performing negative emissions services above the minimum threshold;
 
-Foreign NET Projects that are located outside of the territory of the Grand Duchy of Luxembourg. To be eligible to participate in the negative emissions tariff programme Foreign NET projects must demonstrate compliance with the following criteria:
-A minimum fifty percent of ownership of Foreign NET Project assets must be held by individuals or entities legally domiciled in the territory of the Grand Duchy of Luxembourg. 
-Projects must result in carbon dioxide storage, as defined in Article 4. paragraphs 1 and 2.
+Foreign NET Projects that are located outside of the territory of the Grand Duchy of Luxembourg. To be eligible to participate in the negative emissions tariff programme Foreign NET projects must result in durable carbon dioxide storage, as defined in Article 4. paragraphs 1 and 2.
 
 ART. 4. – Negative emissions tariff value categories and terms.
 
@@ -94,9 +92,7 @@ The negative emissions tariff shall comprise three separate value categories tha
 
 Verified carbon dioxide removal value category: the verified removal of CO2 from the atmosphere; and the utilization of such gasses in the production and/or completion of goods and/or services. At a minimum it shall be compulsory for participating NET service projects to fulfill the carbon dioxide removal value category as a condition of payment eligibility for payment under this programme.
 
-Verified carbon dioxide storage value category: the verified storage of CO2 that has been removed from the atmosphere in materials, geological formations, or ocean-based reservoirs for a minimum period of 100 years. 
-
-Co-benefits value category: verifiable project outcomes, resulting from a NET project that produce  additional and quantifiable socio-economic, and/or environmental benefits compatible with national objectives and public policy goals that are separate and distinct from the delivery of carbon dioxide removal and storage services. Co-benefits in this value category shall be included, modified and/or repealed at the discretion of the Minister upon commencement of each programme year. 
+Verified carbon dioxide storage value category: the verified storage of CO2 that has been removed from the atmosphere in materials, geological formations, or ocean-based reservoirs for a minimum period of 1000 years. 
 
 (3) NET projects that are rated to remove five hundred or fewer but not less than one hundred metric tonnes of carbon dioxide per year shall be eligible for incremental tariff adjustment to compensate for comparatively higher fixed costs associated with construction and/or operation for projects of this scale. The level of additional payment applied to small-scale NET projects shall be determined and adjusted at the discretion of the Minister. 
 
@@ -113,7 +109,7 @@ The Minister shall have authority to adjust tariff levels corresponding to the a
 (6) Each year the Minister shall be authorized to adjust value category compensation rates for the subsequent year based on analysis of real market and technology trends and developments. Adjusted tariffs will be made publicly known and placed in effect on December 30 of each year prior to the subsequent programme year commencement on January 1. 
 
 ART. 5. - Negative emissions technology certification
-
+[under development]
 
 ART. 6. – Negative emissions tariff programme funding sources and terms.
 
@@ -182,30 +178,3 @@ Amended law of 23 December 2016 on income tax
 Law of 23 December 2004 1) establishing a greenhouse gas emission quota trading system; 2) creating a fund to finance the Kyoto mechanisms; 3) amending article 13bis of the amended law of 10 June 1999 relating to classified establishments. - Legilux (public.lu)
  
 Grand-ducal regulation of 1 August 2014
-
-III. Commentary on Articles
-
-The purpose of this law, as defined in the explanatory memorandum, consists in authorizing the Government, in the person of the Minister having the Environment in his attributions, to grant financial assistance to projects aimed at capturing and eliminating carbon dioxide from the atmosphere.
-
-Section 1.
-The article defines concepts relating to the removal of carbon dioxide and necessary for law enforcement.
-
-Section 2.
-The article defines the minister responsible for granting financial assistance.
-In addition, it defines domestic EDC projects performing minimum threshold EDC service, and foreign EDC projects performing minimum threshold EDC service which however do not exceed the maximum threshold and fulfill the criteria specified in Article 3 paragraph 1. and 2, as eligible for financial aid.
-
-Section 3.
-The article defines the different types of aid that can be granted by the Minister. Thus, it appears
-
-Section 4.
-This article defines the amounts of the various financial aids.
-
-Section 6
- 
-Section 7
-This article does not call for any particular comments.
-
-Section 8
-This article proposes to make a specific modification to article 174 of the law of December 17, 2010 and (…). It's about incentivizing...
-
-[1] IPCC, 2018: Global warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty [v. Masson-Delmotte, P. Zhai, H. O. Pörtner, D. Roberts, J. Skea, P.R. Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J. B. R. Matthews, Y. Chen , X. Zhou, M. I. Gomis, E. Lonnoy, T. Maycock, M. Tignor, T. Waterfield (eds.)]. In Press.
